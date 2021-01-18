@@ -13,7 +13,7 @@ function setup() {
 
 function centerCanvas(canvas) {
   let x = (windowWidth - width) / 2;
-  let y = 100;
+  let y = 150;
   canvas.position(x,y);
 }
 
