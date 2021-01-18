@@ -44,7 +44,7 @@ function draw() {
     stroke(color[0],color[1],color[2])
     fill(color[0],color[1],color[2])
     
-    ellipse(mouseX,mouseY,25,25);
+    ellipse(mouseX,mouseY,15,15);
   }
 
   
